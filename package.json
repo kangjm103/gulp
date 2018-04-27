@@ -1,0 +1,27 @@
+{
+  "name": "kanggulp",
+  "version": "1.0.0",
+  "description": "> use gulp",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kangjm103/KangGulp.git"
+  },
+  "author": "Kang Jee Myung",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kangjm103/KangGulp/issues"
+  },
+  "homepage": "https://github.com/kangjm103/KangGulp#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.2",
+    "babel-preset-es2015": "^6.24.1",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^7.0.1",
+    "gulp-strip-debug": "^3.0.0",
+    "gulp-uglify": "^3.0.0"
+  }
+}
