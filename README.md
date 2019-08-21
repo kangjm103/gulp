@@ -9,7 +9,7 @@
 > 2. npm i -D gulp gulp-babel gulp-uglify babel-core babel-preset-es2015 gulp-strip-debug
 
 > 실행
-> gulp
+> 1. gulp
 
 ## Build Setup
 
