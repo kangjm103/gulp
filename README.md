@@ -8,6 +8,9 @@
 > 1. npm init
 > 2. npm i -D gulp gulp-babel gulp-uglify babel-core babel-preset-es2015 gulp-strip-debug
 
+> 실행
+> gulp
+
 ## Build Setup
 
 ``` bash
