@@ -7,7 +7,7 @@
 > 4. result 폴더 생성
 
 ## 실행
-> 1. src 폴더에 build 를 위한 
+> 1. src 폴더에 build 될 소스 넣기
 >    - ex) mklink /d 원본소스경로\MAXGAUGE_MYUNG gulp프로젝트경로\MAXGAUGE
 > 2. npm run gulp
 > 3. result 폴더에서 확인
